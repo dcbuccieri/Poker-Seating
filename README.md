@@ -2,9 +2,10 @@
 Application for controlling and displaying waiting lists for poker games
 
 Author: David Buccieri
+
 E-mail: DCBuccieri@hotmail.com
 
-The incomplete version of this application is viewable at http://www.buccieri.net/poker/login.php using admin:12345 (please be respectful)
+The incomplete version of this application is viewable at http://www.buccieri.net/poker/login.php using admin:12345 (please be respectful). Allow pop-ups to view the screen which was viewed by the public.
 
 This is an incomplete, improperly styled web-based application built using HTML, CSS, PHP, MySQL, and jQuery in Sept/Oct '15. The purpose of the application is to manage waiting lists for different poker games in a poker room as well as displaying the lists in the lobby of the poker room so poker players and poker room staff can see real-time waiting lists. The application was used by a local poker room for several months as an alternative to using a simple whiteboard at the front of the room to track their lists.
 
